@@ -9,7 +9,7 @@ This project uses machine learning to predict whether an Olympic athlete will wi
 ## Research Questions
 
 1. **Primary:** Can we predict whether an athlete will medal using athlete characteristics and contextual factors? How do sport-specific models compare to a global model?
-2. **Secondary:** Which feature set is more predictive of medal outcomes , athlete characteristics (Age, Height, Weight, Sex) or external factors (Country, Season, Sport, Year)?
+2. **Secondary:** Which feature set is more predictive of medal outcomes, athlete characteristics (Age, Height, Weight, Sex) or external factors (Country, Season, Sport, Year)?
 
 ## Methods
 
@@ -27,8 +27,8 @@ This project uses machine learning to predict whether an Olympic athlete will wi
 
 | File | Description |
 |------|-------------|
-| `DATA_301_Project_Models_Updated.ipynb` | Primary analysis , data cleaning, model training, sport-specific vs. global model comparison |
-| `DATA_301_Project_SecondaryQuestion.ipynb` | Secondary analysis , athlete features vs. external factors comparison |
+| `DATA_301_Project_Models_Updated.ipynb` | Primary analysis, data cleaning, model training, sport-specific vs. global model comparison |
+| `DATA_301_Project_SecondaryQuestion.ipynb` | Secondary analysis, athlete features vs. external factors comparison |
 | `DATA 301 Final Project Poster.pdf` | Project poster summarizing findings |
 | `DATA 301 Olympics Data Context.pdf` | Dataset context and background information |
 
